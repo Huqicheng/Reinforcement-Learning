@@ -1,6 +1,8 @@
 Reinforcement Learning
 -------------------------
 
+[强化学习简明教程](https://blog.csdn.net/itplus/article/details/9361915)
+
 ## K-armed Bandit Problem
 
 ### 1. ϵ-greedy
