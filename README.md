@@ -17,4 +17,8 @@ Pick bandit based on Boltzmann Distribution.
 
 ### 1. Q Learning
 
+![](https://cdn-images-1.medium.com/max/800/1*jamiG5MkFVHLTFmLggemVg.png)
+
 ![Q-learning Equation](https://cdn-images-1.medium.com/max/800/1*2APPuDNSpWMlaiin7R0C9g.png)
+
+where α is the learning rate that controls how much the difference between previous and new Q value is considered.
