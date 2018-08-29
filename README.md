@@ -13,5 +13,6 @@ Pick bandit based on Boltzmann Distribution.
 
 ## Model-based Learning
 
-### 1. Policy Learning
+### 1. Q Learning
 
+![Q-learning Equation](https://cdn-images-1.medium.com/max/800/1*2APPuDNSpWMlaiin7R0C9g.png)
